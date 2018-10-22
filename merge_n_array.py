@@ -26,3 +26,5 @@ def array_merger(array_list):
 
 if __name__ == "__main__":
    print array_merger([[3,6,10],[2,4,5]])
+  
+    
